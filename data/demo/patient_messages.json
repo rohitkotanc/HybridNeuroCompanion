@@ -1,0 +1,32 @@
+[
+  {
+    "id": "msg-001",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-18T22:30:00+00:00",
+    "author_role": "patient",
+    "language_code": "en",
+    "content": "I had a strange aura and then felt confused after. I may have blacked out for a minute.",
+    "source_type": "patient_chat",
+    "source_id": "chat-001"
+  },
+  {
+    "id": "msg-002",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-18T23:05:00+00:00",
+    "author_role": "patient",
+    "language_code": "en",
+    "content": "I am still tired and disoriented but can answer basic questions now.",
+    "source_type": "patient_chat",
+    "source_id": "chat-002"
+  },
+  {
+    "id": "msg-003",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-19T06:05:00+00:00",
+    "author_role": "patient",
+    "language_code": "en",
+    "content": "I woke up feeling off, then had trouble focusing and felt shaky.",
+    "source_type": "patient_chat",
+    "source_id": "chat-003"
+  }
+]

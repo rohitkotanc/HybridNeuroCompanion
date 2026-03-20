@@ -1,0 +1,46 @@
+[
+  {
+    "id": "alert-001",
+    "patient_id": "patient-001",
+    "vital_window_id": "vw-001",
+    "model_version_id": "model-001",
+    "alert_type": "seizure-risk-high",
+    "status": "open",
+    "risk_score": 0.84,
+    "model_confidence": 0.73,
+    "evidence_completeness": 0.61,
+    "doctor_confirmed_truth": null,
+    "alert_timestamp": "2026-03-18T22:42:00+00:00",
+    "rationale": {
+      "anomaly_pressure": 0.88,
+      "variability_pressure": 0.51,
+      "baseline_strength": 0.38,
+      "fallback_mode": true
+    },
+    "urgent_escalation": false,
+    "source_type": "vital_pipeline",
+    "source_id": "vw-001"
+  },
+  {
+    "id": "alert-002",
+    "patient_id": "patient-001",
+    "vital_window_id": "vw-002",
+    "model_version_id": "model-001",
+    "alert_type": "unusual-vitals",
+    "status": "open",
+    "risk_score": 0.67,
+    "model_confidence": 0.59,
+    "evidence_completeness": 0.64,
+    "doctor_confirmed_truth": null,
+    "alert_timestamp": "2026-03-19T06:18:00+00:00",
+    "rationale": {
+      "anomaly_pressure": 0.61,
+      "variability_pressure": 0.39,
+      "baseline_strength": 0.38,
+      "fallback_mode": true
+    },
+    "urgent_escalation": false,
+    "source_type": "vital_pipeline",
+    "source_id": "vw-002"
+  }
+]

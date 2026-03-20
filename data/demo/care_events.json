@@ -1,0 +1,62 @@
+[
+  {
+    "id": "evt-001",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-18T21:55:00+00:00",
+    "title": "Medication logged",
+    "description": "Evening anti-seizure medication recorded.",
+    "event_type": "medication",
+    "source_type": "care_log",
+    "source_id": "care-001"
+  },
+  {
+    "id": "evt-002",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-18T22:42:00+00:00",
+    "title": "High-risk alert raised",
+    "description": "Body-signal alert generated for doctor review.",
+    "event_type": "alert",
+    "source_type": "care_log",
+    "source_id": "care-002"
+  },
+  {
+    "id": "evt-003",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-18T23:10:00+00:00",
+    "title": "Post-event check-in",
+    "description": "Care team reviewed patient orientation after the event.",
+    "event_type": "check_in",
+    "source_type": "care_log",
+    "source_id": "care-003"
+  },
+  {
+    "id": "evt-004",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-19T05:55:00+00:00",
+    "title": "Sleep disruption noted",
+    "description": "Wearable sleep quality dip noted before morning changes.",
+    "event_type": "sleep_note",
+    "source_type": "care_log",
+    "source_id": "care-004"
+  },
+  {
+    "id": "evt-005",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-19T06:18:00+00:00",
+    "title": "Morning unusual-vitals alert",
+    "description": "Second body-signal pattern prompted review.",
+    "event_type": "alert",
+    "source_type": "care_log",
+    "source_id": "care-005"
+  },
+  {
+    "id": "evt-006",
+    "patient_id": "patient-001",
+    "timestamp": "2026-03-19T07:00:00+00:00",
+    "title": "Caregiver note",
+    "description": "Caregiver reported slower-than-usual recovery.",
+    "event_type": "caregiver_note",
+    "source_type": "care_log",
+    "source_id": "care-006"
+  }
+]
