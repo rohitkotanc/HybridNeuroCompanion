@@ -16,6 +16,14 @@
   Alerts are therefore not the product claim. They are a consequence of having structured, time-linked data and being able to flag unusual patterns for review.
   The core value is giving the doctor a clearer, faster, more navigable interface to the patient record.
 
+## Contributors
+
+Rohit Kota — GitHub: @rohitkotanc
+Aneesh Ramakrishnan — GitHub: @aneeshsrk
+Aditya Srivastava - GitHub: @adisri1229
+Sidharth Dimri - GitHub: @sidharth-dimri
+All contributors participated in the development, experimentation, analysis, and presentation of the project.
+
   ## Product Focus
 
   The focus of this project is simple:
