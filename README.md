@@ -18,14 +18,13 @@
 
 ## Contributors
 
-Rohit Kota — GitHub: @rohitkotanc
+This project was developed collaboratively by:
 
-Aneesh Ramakrishnan — GitHub: @aneeshsrk
-
-Aditya Srivastava - GitHub: @adisri1229
-
-Sidharth Dimri - GitHub: @sidharth-dimri
-
+- Rohit Kota — GitHub: @rohitkotanc
+- Aneesh Ramakrishnan — GitHub: @aneeshsrk
+- Aditya Srivastava - GitHub: @adisri1229
+- Sidharth Dimri - GitHub: @sidharth-dimri
+  
 All contributors participated in the development, experimentation, analysis, and presentation of the project.
 
   ## Product Focus
